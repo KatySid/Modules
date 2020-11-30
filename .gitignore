@@ -3,6 +3,7 @@
 
 #.Idea folder
 .idea
+.project
 
 # Log file
 *.log
